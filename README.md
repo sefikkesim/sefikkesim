@@ -56,8 +56,8 @@
   Project Name                          |How does my project look   
 :-------------------------              |------------------------- 
 [IOS Calculator ](https://sefikkesim.github.io/Ios_calculator/)|![IOS Calculator](https://user-images.githubusercontent.com/91076807/184550556-c3aee49c-2438-4862-9c82-2e20adbe7fcf.gif)
-[Movie App](https://movie-app-firebase.netlify.app/)|![Movie App](https://user-images.githubusercontent.com/91076807/184549973-6802dca3-3f3d-4c4a-82a3-2d2302114396.gif)
-[Weather App](https://sefikkesim.github.io/Weather_app/)| ![Weather App](https://user-images.githubusercontent.com/91076807/184550130-c6137167-f60c-4b5d-9bef-9366bf5f660d.gif)
+[Movie App with ReactJS](https://movie-app-firebase.netlify.app/)|![Movie App](https://user-images.githubusercontent.com/91076807/184549973-6802dca3-3f3d-4c4a-82a3-2d2302114396.gif)
+[Weather App with ReactJS](https://sefikkesim.github.io/Weather_app/)| ![Weather App](https://user-images.githubusercontent.com/91076807/184550130-c6137167-f60c-4b5d-9bef-9366bf5f660d.gif)
 [Tour Places with React.js](https://tourplaceswithreact.netlify.app/)|![Tour Places](https://user-images.githubusercontent.com/91076807/184550192-47f1aa59-19b7-430c-9b5a-0ac592f30c44.gif)
-[Recipe App](https://recipe-app-sefik.netlify.app/)|![Recipe App](https://user-images.githubusercontent.com/91076807/184550293-d296930e-6f09-4591-9b5c-9f643d832c8e.gif)
+[Recipe App with React.js ](https://recipe-app-sefik.netlify.app/)|![Recipe App](https://user-images.githubusercontent.com/91076807/184550293-d296930e-6f09-4591-9b5c-9f643d832c8e.gif)
 
