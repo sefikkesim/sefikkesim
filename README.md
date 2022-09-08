@@ -25,7 +25,7 @@
   
   - :telescope: I’ve developed a skill set directly relevant to the Test Automation Engineer role, including Java, Selenium Webdriver, TestNG, JUnit, Cucumber, Oracle SQL, UI testing, Database testing, API testing.As a result of my experience, I am highly detail-oriented, a critical decision-maker, a dedicated problem solver, and a good team player.
 
-  - :seedling: I am learning Robot Framework.
+  - :seedling: I am open to learn new technologies.
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sefik_Kesim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sefik-kesim)
 
