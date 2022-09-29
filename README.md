@@ -20,7 +20,7 @@
   
   ---
 
-### :woman_technologist: About Me :
+### :technologist: About Me :
   I am a QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
   
   - :telescope: I’ve developed a skill set directly relevant to the Test Automation Engineer role, including Java, Selenium Webdriver, TestNG, JUnit, Cucumber, Robot Framework, Oracle SQL, UI testing, Database testing, API testing.As a result of my experience, I am highly detail-oriented, a critical decision-maker, a dedicated problem solver, and a good team player.
